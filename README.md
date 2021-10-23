@@ -1,5 +1,4 @@
 <h1 align="center">Kingless</h1>
-									<p align="right">Proiect realizat de Eduard-Cristian Podaru</p>
 </br></br>
 <img src="https://imgur.com/zzNFWve.png"></img>
 <h2>Descriere</h2>
